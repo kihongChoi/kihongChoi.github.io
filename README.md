@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Hello everyone!
 
-You can use the [editor on GitHub](https://github.com/kihongChoi/kihongChoi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the page to share my cv or resume, and link some of the works of me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently the Ph. D. student, in Dept. of Information Display, Kyung Hee University, Seoul, S.Korea.
 
-### Markdown
+I am studying about the optical engineering, especially about the holography.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
+* "Achromatic phase shifting self-interference incoherent digital holography using linear polarizer and geometric phase lens," **Kihong Choi**, Junkyu Yim, and Sung-Wook Min, Opt. Express 26, 16212-16225 (2018) [link](https://www.osapublishing.org/oe/abstract.cfm?URI=oe-26-13-16212)
+* ”Self-interference digital holography with a geometric-phase hologram lens,” **Ki- Hong Choi**, Junkyu Yim, Seunghwi Yoo, and Sung-Wook Min, Opt. Lett. 42, 3940- 3943 (2017) [Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-42-19-3940)
+* “Opticaldefocusnoisesuppressingbyusingapinhole-polarizerinFresnelincoher- ent correlation holography,” **KiHong Choi**, Junkyu Yim, and Sung-Wook Min, Appl. Opt. 56, F121-F127 (2017) [Editor’s pick]
+* ”Real object pickup method of integral imaging using offset lens array,” Junkyu Yim, **Ki-Hong Choi**, and Sung-Wook Min, Appl. Opt. 56, F167-F172 (2017)
+* ”Analysisonexpressibledepthrangeofintegralimagingbasedondegreeofvoxel overlap,” Young Min Kim, **Ki-Hong Choi**, and Sung-Wook Min, Appl. Opt. 56, 1052- 1061 (2017)
+* ”Analysis of Condition for Integral Floating Display Inducing Proper Accommod- ation Responses,” **Ki-Hong Choi**, Myoung Ju Won, Mincheol Whang, and Sung- Wook Min, J. Display Technol. 12, 1352-1363 (2016)
+* ”Measurementofaccommodationresponseofhumaneyetointegralfloatingdis- play,” **Ki-Hong Choi**, Junkyu Yim, Young Min Kim, and Sung-Wook Min, Appl. Opt. 54, 7925-7932 (2015)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kihongChoi/kihongChoi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Project
+### DIY holographiic camera
+* The genuine holographic camera under the incoherent illuminations
+* Simple structure, easy to DIY.
+* currently coined as "Geometric phase Self-interference incoherent digital holography (GP-SIDH)"
+* Checkout github project page [Link]()
