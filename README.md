@@ -9,6 +9,8 @@ Here's my resume (ver. Jul, 2018): [link](kihongChoi.github.io/resume_khchoi_201
 ---
 
 ## Publication
+* "Compact self-interference incoherent digital holographic camera system with real-time operation," **Kihong Choi**, Kyung-Il Joo, Tae-Hyun Lee, Hak-Rin Kim, Junkyu Yim, and Sung-Wook Min, Opt. Express, (in press)
+* "Optical sectioning using compressive Fresnel holography with dictionary learning," Junkyu Yim, **KiHong Choi**, Sung-Wook Min, Opt. Eng. 57(7), 073102 (2018).
 * "Achromatic phase shifting self-interference incoherent digital holography using linear polarizer and geometric phase lens," **Kihong Choi**, Junkyu Yim, and Sung-Wook Min, Opt. Express 26, 16212-16225 (2018) [link](https://www.osapublishing.org/oe/abstract.cfm?URI=oe-26-13-16212)
 * ”Self-interference digital holography with a geometric-phase hologram lens,” **Ki-Hong Choi**, Junkyu Yim, Seunghwi Yoo, and Sung-Wook Min, Opt. Lett. 42, 3940- 3943 (2017) [Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-42-19-3940)
 * “Optical defocus noise suppressing by using a pinhole-polarizer in Fresnel incoherent correlation holography,” **KiHong Choi**, Junkyu Yim, and Sung-Wook Min, Appl. Opt. 56, F121-F127 (2017) [Editor’s pick]
