@@ -4,7 +4,7 @@ This is the page to share my cv or resume, and link some of the works of me.
 I am currently the Ph. D. student, in Dept. of Information Display, Kyung Hee University, Seoul, S.Korea.
 I am studying about the optical engineering, especially the holographic recording system.
 
-Here's my resume (ver. Jan, 2019): [link](https://github.com/kihongChoi/kihongChoi.github.io/blob/master/cv_ver20190122.pdf)
+Here's my resume (ver. Jan, 2019): [link](https://github.com/kihongChoi/kihongChoi.github.io/blob/master/cv_ver20190212.pdf)
 
 ---
 
