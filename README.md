@@ -22,7 +22,7 @@ Here's my resume (ver. Jan, 2019): [link](https://github.com/kihongChoi/kihongCh
 ---
 
 ## Project
-### DIY holographic camera ([project page on Github](https://github.com/kihongChoi/gpsidh))
-* The genuine holographic camera under the incoherent illuminations
+### DIY holographic camera (on development, [project page on Github](https://github.com/kihongChoi/gpsidh))
+* The portable holographic camera under the incoherent illuminations
 * Simple structure, easy to DIY.
-* currently coined as "Geometric phase Self-interference incoherent digital holography (GP-SIDH)"
+* Currently coined as "Geometric phase Self-interference incoherent digital holography (GP-SIDH)"
